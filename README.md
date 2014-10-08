@@ -5,9 +5,9 @@ A simple iOS client for Chartboost.
 
 Screenshots
 ---
-<img src="Screenshots/01.png" width=50% /> 
-<img src="Screenshots/02.png" width=50% />
-<img src="Screenshots/00.png" width=50% />
+<img src="Screenshots/01.png" width="320px" />&nbsp;
+<img src="Screenshots/02.png" width="320px" />&nbsp;
+<img src="Screenshots/00.png" width="320px" />
 
 
 About
