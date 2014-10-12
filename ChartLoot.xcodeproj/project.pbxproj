@@ -11,7 +11,6 @@
 		8ED4590E19E00FE100DBAAD3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4590D19E00FE100DBAAD3 /* main.m */; };
 		8ED4591119E00FE100DBAAD3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4591019E00FE100DBAAD3 /* AppDelegate.m */; };
 		8ED4591419E00FE100DBAAD3 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4591319E00FE100DBAAD3 /* MasterViewController.m */; };
-		8ED4591719E00FE100DBAAD3 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4591619E00FE100DBAAD3 /* DetailViewController.m */; };
 		8ED4591A19E00FE100DBAAD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4591819E00FE100DBAAD3 /* Main.storyboard */; };
 		8ED4591C19E00FE100DBAAD3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4591B19E00FE100DBAAD3 /* Images.xcassets */; };
 		8ED4591F19E00FE100DBAAD3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4591D19E00FE100DBAAD3 /* LaunchScreen.xib */; };
@@ -50,8 +49,6 @@
 		8ED4591019E00FE100DBAAD3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8ED4591219E00FE100DBAAD3 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		8ED4591319E00FE100DBAAD3 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
-		8ED4591519E00FE100DBAAD3 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
-		8ED4591619E00FE100DBAAD3 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		8ED4591919E00FE100DBAAD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8ED4591B19E00FE100DBAAD3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8ED4591E19E00FE100DBAAD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -133,8 +130,6 @@
 				8ED4591019E00FE100DBAAD3 /* AppDelegate.m */,
 				8ED4591219E00FE100DBAAD3 /* MasterViewController.h */,
 				8ED4591319E00FE100DBAAD3 /* MasterViewController.m */,
-				8ED4591519E00FE100DBAAD3 /* DetailViewController.h */,
-				8ED4591619E00FE100DBAAD3 /* DetailViewController.m */,
 				8ED4595919E0A29B00DBAAD3 /* ApplicationViewController.h */,
 				8ED4595A19E0A29B00DBAAD3 /* ApplicationViewController.m */,
 				8EF208E119E1DD3200D0D816 /* LoginViewController.h */,
@@ -396,7 +391,6 @@
 				8ED4595B19E0A29B00DBAAD3 /* ApplicationViewController.m in Sources */,
 				8ED4593719E04ADB00DBAAD3 /* ChartboostAPIClient.m in Sources */,
 				8EF208E319E1DD3200D0D816 /* LoginViewController.m in Sources */,
-				8ED4591719E00FE100DBAAD3 /* DetailViewController.m in Sources */,
 				8ED4594119E0600500DBAAD3 /* ChartboostApplication.m in Sources */,
 				8EDA70EB19E5C62C00E855CE /* HelpViewController.m in Sources */,
 				8ED4595119E07DE800DBAAD3 /* ChartboostApplicationTableViewCell.m in Sources */,

@@ -16,4 +16,6 @@
 
 @property (strong, nonatomic) ChartboostApplication* detailItem;
 
+- (void)setDetailItem:(ChartboostApplication*)newDetailItem;
+
 @end

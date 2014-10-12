@@ -12,7 +12,7 @@
 #import "Account.h"
 #import "ChartboostApplication.h"
 #import "MasterViewController.h"
-#import "DetailViewController.h"
+#import "ApplicationViewController.h"
 #import "ChartboostApplicationTableViewCell.h"
 #import "UIImageView+ChartboostApplication.h"
 
